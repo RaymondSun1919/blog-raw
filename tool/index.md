@@ -1,5 +1,5 @@
 ---
-title: 工具 - dianhsu.top
+title: 工具 - huangfeihu.xyz
 toc:
   depth_from: 1
   depth_to: 4

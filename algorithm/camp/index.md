@@ -1,6 +1,6 @@
 ---
 
-title: 2022 - Namomo Camp - dianhsu.top
+title: 2022 - Namomo Camp - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

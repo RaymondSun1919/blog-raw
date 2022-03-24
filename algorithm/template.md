@@ -1,5 +1,5 @@
 ---
-title: 模板 - dianhsu.top
+title: 模板 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

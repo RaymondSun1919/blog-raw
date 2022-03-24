@@ -1,6 +1,6 @@
 ---
 
-title: KMP - 算法 - dianhsu.top
+title: KMP - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

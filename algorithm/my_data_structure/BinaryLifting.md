@@ -1,6 +1,6 @@
 ---
 
-title: 倍增算法 - 算法 - dianhsu.top
+title: 倍增算法 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

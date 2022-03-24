@@ -1,5 +1,5 @@
 ---
-title: 数据库 - dianhsu.top
+title: 数据库 - huangfeihu.xyz
 toc:
   depth_from: 1
   depth_to: 4

@@ -1,6 +1,6 @@
 ---
 
-title: 二项式系数 - 算法 - dianhsu.top
+title: 二项式系数 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

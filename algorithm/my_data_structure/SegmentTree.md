@@ -1,6 +1,6 @@
 ---
 
-title: 线段树 - 算法 - dianhsu.top
+title: 线段树 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

@@ -1,5 +1,5 @@
 ---
-title: C++ - dianhsu.top
+title: C++ - huangfeihu.xyz
 toc:
   depth_from: 1
   depth_to: 3

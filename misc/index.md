@@ -1,5 +1,5 @@
 ---
-title: 杂项 - dianhsu.top
+title: 杂项 - huangfeihu.xyz
 toc:
   depth_from: 1
   depth_to: 4

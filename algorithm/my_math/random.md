@@ -3,7 +3,7 @@
 toc:
     depth_from: 1
     depth_to: 4
-title: 随机数 - 算法 - dianhsu.top
+title: 随机数 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

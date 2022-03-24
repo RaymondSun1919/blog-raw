@@ -1,6 +1,6 @@
 ---
 
-title: 字典树 - 算法 - dianhsu.top
+title: 字典树 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

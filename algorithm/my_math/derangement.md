@@ -2,7 +2,7 @@
 toc:
     depth_from: 1
     depth_to: 4
-title: 错排问题 - 算法 - dianhsu.top
+title: 错排问题 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

@@ -2,7 +2,7 @@
 toc:
     depth_from: 1
     depth_to: 4
-title: 迭代深化深度优先搜索 - 算法 - dianhsu.top
+title: 迭代深化深度优先搜索 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

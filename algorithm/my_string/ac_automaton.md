@@ -1,6 +1,6 @@
 ---
 
-title: AC自动机 - 算法 - dianhsu.top
+title: AC自动机 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

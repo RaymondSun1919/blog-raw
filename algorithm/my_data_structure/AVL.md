@@ -1,6 +1,6 @@
 ---
 
-title: AVL树 - 算法 - dianhsu.top
+title: AVL树 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

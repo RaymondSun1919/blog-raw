@@ -2,7 +2,7 @@
 toc:
     depth_from: 1
     depth_to: 4
-title: 动态规划 - 算法 - dianhsu.top
+title: 动态规划 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

@@ -1,5 +1,5 @@
 ---
-title: 经典算法 - dianhsu.top
+title: 经典算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

@@ -1,6 +1,6 @@
 ---
 
-title: 乘法逆元 - 算法 - dianhsu.top
+title: 乘法逆元 - 算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 

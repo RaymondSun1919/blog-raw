@@ -1,5 +1,5 @@
 ---
-title: 设计模式 - dianhsu.top
+title: 设计模式 - huangfeihu.xyz
 toc:
   depth_from: 1
   depth_to: 4
