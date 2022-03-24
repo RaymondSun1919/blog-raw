@@ -3,7 +3,7 @@ title: 经典算法 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
 
-# 经典算法 {ignore=True}
+# 常用数据结构 {ignore=True}
 > 返回:house:[首页](./index.html)
 
 -----------------------------------
