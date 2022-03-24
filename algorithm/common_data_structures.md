@@ -1,3 +1,14 @@
+---
+title: 经典算法 - huangfeihu.xyz
+---
+@import "/mystyle.less"
+
+# 经典算法 {ignore=True}
+> 返回:house:[首页](./index.html)
+
+-----------------------------------
+
+
 # vector
 ## 自定义排序
 ```c++
