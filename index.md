@@ -1,23 +1,22 @@
 ---
-title: 首页 - dianhsu.top
+title: 首页 - huangfeihu.xyz
 ---
 @import "/mystyle.less"
-# DianHsu
+# Raymond
 
 
 <div style="">
-<img src="https://cdn.dianhsu.top/image/takagi2.jpeg" style="border-radius:50%;" width=200px title="my avatar" alt="my avatar" />
+<img src="./topic.jpg" style="border-radius:8px;" width=200px title="my avatar" alt="my avatar" />
 </div>
 本博客由<a href="https://shd101wyy.github.io/markdown-preview-enhanced/#/" target="_blank">MPE</a>和<a href="https://github.com/features/actions" target="_blank">GitHub Actions</a>强力驱动。
 
 --------------------------
 
-- 主站：[https://dianhsu.top](https://dianhsu.top)
-- 博客源码：[https://github.com/dianhsu/blog-raw](https://github.com/dianhsu/blog-raw)
+- 主站：[https://huangfeihu.xyz](https://huangfeihu.xyz)
 
 
 ## 目录
-- :floppy_disk:[简历](https://cdn.dianhsu.top/resume.pdf)
+<!-- - :floppy_disk:[简历](https://cdn.dianhsu.top/resume.pdf) -->
 - :apple:[C++](./cplusplus/index.html)
 - :rocket:[经典算法](./algorithm/index.html)
 - :balloon:[LeetCode](./leetcode/index.html)
@@ -26,6 +25,7 @@ title: 首页 - dianhsu.top
 - :globe_with_meridians:[计算机网络](./computer_network/index.html)
 - :fire:[杂项](./misc/index.html)
 - :banana:[工具](./tool/index.html)
+- :broken_heart:[发病小作文](./)
 
 ## Codeforces
 - <a href="https://codeforces.com/profile/xdO_o"><img src="https://fc.dianhsu.top/cf?user=xdO_o"></a>
@@ -41,4 +41,4 @@ title: 首页 - dianhsu.top
 - GitHub: [https://github.com/dianhsu](https://github.com/dianhsu)
 - LinkedIn: [https://www.linkedin.com/in/dianhsu/](https://www.linkedin.com/in/dianhsu/)
 
-![](https://cdn.dianhsu.top/dianhsu_manim.gif)
+<!-- ![](https://cdn.dianhsu.top/dianhsu_manim.gif) -->
